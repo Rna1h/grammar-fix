@@ -1,0 +1,20 @@
+.container {
+    margin: 1rem;
+    padding: 0 1rem;
+    display: flex;
+    justify-content: space-between;
+    height: 80vh;
+}
+
+.left-container {
+    width: 50%;
+    display: block;
+    border-right: 1px solid black;
+    padding-top: 1rem;
+}
+
+.right-container {
+    width: 50%;
+    display: block;
+    padding: 1rem;
+}
